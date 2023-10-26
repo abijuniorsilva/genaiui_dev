@@ -9,12 +9,12 @@ function App() {
   return (
     <Router>
       <Routes>
-        <Route path="/" element={<Layout />}>
+        <Route path="/genaiui_dev" element={<Layout />}>
           <Route index element={<Dashboard />} />
-          <Route path="products" element={<Products />} />
-          <Route path="home" element={<Home />} />
+          <Route path="genaiui_dev/products" element={<Products />} />
+          <Route path="genaiui_dev/home" element={<Home />} />
         </Route>
-        <Route path="login" element={<Login/>} />
+        <Route path="genaiui_dev/login" element={<Login/>} />
       </Routes>
     </Router>
   );
