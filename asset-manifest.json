@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/genaiui_dev/static/css/main.bca7d010.css",
-    "main.js": "/genaiui_dev/static/js/main.d3e5cd25.js",
+    "main.js": "/genaiui_dev/static/js/main.8dcefdab.js",
     "index.html": "/genaiui_dev/index.html",
     "main.bca7d010.css.map": "/genaiui_dev/static/css/main.bca7d010.css.map",
-    "main.d3e5cd25.js.map": "/genaiui_dev/static/js/main.d3e5cd25.js.map"
+    "main.8dcefdab.js.map": "/genaiui_dev/static/js/main.8dcefdab.js.map"
   },
   "entrypoints": [
     "static/css/main.bca7d010.css",
-    "static/js/main.d3e5cd25.js"
+    "static/js/main.8dcefdab.js"
   ]
 }
